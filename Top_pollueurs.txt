@@ -1,0 +1,100 @@
+1	China (Coal)	14.32%
+2	Saudi Arabian Oil Company (Aramco)	4.50%
+3	Gazprom OAO	3.91%
+4	National Iranian Oil Co	2.28%
+5	ExxonMobil Corp	1.98%
+6	Coal India	1.87%
+7	Petroleos Mexicanos (Pemex)	1.87%
+8	Russia (Coal)	1.86%
+9	Royal Dutch Shell PLC	1.67%
+10	China National Petroleum Corp (CNPC)	1.56%
+11	BP PLC	1.53%
+12	Chevron Corp	1.31%
+13	Petroleos de Venezuela SA (PDVSA)	1.23%
+14	Abu Dhabi National Oil Co	1.20%
+15	Poland Coal	1.16%
+16	Peabody Energy Corp	1.15%
+17	Sonatrach SPA	1.00%
+18	Kuwait Petroleum Corp	1.00%
+19	Total SA	0.95%
+20	BHP Billiton Ltd	0.91%
+21	ConocoPhillips	0.91%
+22	Petroleo Brasileiro SA (Petrobras)	0.77%
+23	Lukoil OAO	0.75%
+24	Rio Tinto	0.75%
+25	Nigerian National Petroleum Corp	0.72%
+26	Petroliam Nasional Berhad (Petronas)	0.69%
+27	Rosneft OAO	0.65%
+28	Arch Coal Inc	0.63%
+29	Iraq National Oil Co	0.60%
+30	Eni SPA	0.59%
+31	Anglo American	0.59%
+32	Surgutneftegas OAO	0.57%
+33	Alpha Natural Resources Inc	0.54%
+34	Qatar Petroleum Corp	0.54%
+35	PT Pertamina	0.54%
+36	Kazakhstan Coal	0.53%
+37	Statoil ASA	0.52%
+38	National Oil Corporation of Libya	0.50%
+39	Consol Energy Inc	0.50%
+40	Ukraine Coal	0.49%
+41	RWE AG	0.47%
+42	Oil & Natural Gas Corp Ltd	0.40%
+43	Glencore PLC	0.38%
+44	TurkmenGaz	0.36%
+45	Sasol Ltd	0.35%
+46	Repsol SA	0.33%
+47	Anadarko Petroleum Corp	0.33%
+48	Egyptian General Petroleum Corp	0.31%
+49	Petroleum Development Oman LLC	0.31%
+50	Czech Republic Coal	0.30%
+51	China Petrochemical Corp (Sinopec)	0.29%
+52	China National Offshore Oil Corp Ltd (CNOOC)	0.28%
+53	Ecopetrol SA	0.27%
+54	Singareni Collieries Company	0.27%
+55	Occidental Petroleum Corp	0.26%
+56	Sonangol EP	0.26%
+57	Tatneft OAO	0.23%
+58	North Korea Coal	0.23%
+59	Bumi Resources	0.23%
+60	Suncor Energy Inc	0.22%
+61	Petoro AS	0.21%
+62	Devon Energy Corp	0.20%
+63	Natural Resource Partners LP	0.19%
+64	Marathon Oil Corp	0.19%
+65	Vistra Energy	0.19%
+66	Encana Corp	0.18%
+67	Canadian Natural Resources Ltd	0.17%
+68	Hess Corp	0.16%
+69	Exxaro Resources Ltd	0.16%
+70	YPF SA	0.15%
+71	Apache Corp	0.15%
+72	Murray Coal	0.15%
+73	Alliance Resource Partners LP	0.15%
+74	Syrian Petroleum Co	0.15%
+75	Novatek OAO	0.14%
+76	NACCO Industries Inc	0.13%
+77	KazMunayGas	0.13%
+78	Adaro Energy PT	0.13%
+79	Petroleos del Ecuador	0.12%
+80	Inpex Corp	0.12%
+81	Kiewit Mining Group	0.12%
+82	AP Moller (Maersk)	0.11%
+83	Banpu Public Co Ltd	0.11%
+84	EOG Resources Inc	0.11%
+85	Husky Energy Inc	0.11%
+86	Kideco Jaya Agung PT	0.10%
+87	Bahrain Petroleum Co (BAPCO)	0.10%
+88	Westmoreland Coal Co	0.10%
+89	Cloud Peak Energy Inc	0.10%
+90	Chesapeake Energy Corp	0.10%
+91	Drummond Co	0.09%
+92	Teck Resources Ltd	0.09%
+93	Turkmennebit	0.07%
+94	OMV AG	0.06%
+95	Noble Energy Inc	0.06%
+96	Murphy Oil Corp	0.06%
+97	Berau Coal Energy Tbk PT	0.06%
+98	Bukit Asam (Persero) Tbk PT	0.05%
+99	Indika Energy Tbk PT	0.04%
+100	Southwestern Energy Co	0.04%
