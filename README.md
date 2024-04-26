@@ -1,1 +1,1 @@
-# modalINF473G
+# ModalINF473G
