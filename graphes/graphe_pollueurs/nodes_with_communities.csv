@@ -1,0 +1,202 @@
+Id,Label,Type,community
+cNational Iranian Oil Co,National Iranian Oil Co,Company,0
+countryIran,Iran,Country,0
+hTehran,Tehran,Headquarter,0
+d+51000000000 (+2007-00-00T00:00:00Z),+51000000000 (+2007-00-00T00:00:00Z),Revenue,0
+ppetrochemical product,petrochemical product,Product,0
+sTehran Stock Exchange,Tehran Stock Exchange,Stock Exchange Sector,0
+sectorpetroleum industry,petroleum industry,Activity Sector,9
+cExxonMobil Corp,ExxonMobil Corp,Company,12
+countryUnited States of America,United States of America,Country,12
+hIrving,Irving,Headquarter,12
+d+268882000000 (+2015-00-00T00:00:00Z),+268882000000 (+2015-00-00T00:00:00Z),Revenue,12
+pgasoline,gasoline,Product,12
+sNew York Stock Exchange,New York Stock Exchange,Stock Exchange Sector,12
+groupDow Jones Industrial Average,Dow Jones Industrial Average,Group,12
+groupS&P 100,S&P 100,Group,12
+groupS&P 500,S&P 500,Group,12
+groupBig Oil,Big Oil,Group,12
+groupfossil fuels lobby,fossil fuels lobby,Group,12
+cCoal India,Coal India,Company,1
+countryIndia,India,Country,1
+hKolkata,Kolkata,Headquarter,1
+pcoal,coal,Product,1
+sNational Stock Exchange of India,National Stock Exchange of India,Stock Exchange Sector,1
+sectormining of coal,mining of coal,Activity Sector,1
+cRoyal Dutch Shell PLC,Royal Dutch Shell PLC,Company,2
+countryNetherlands,Netherlands,Country,2
+hShell Centre,Shell Centre,Headquarter,2
+d+264960000000 (+2015-00-00T00:00:00Z),+264960000000 (+2015-00-00T00:00:00Z),Revenue,2
+ppetroleum,petroleum,Product,14
+sLondon Stock Exchange,London Stock Exchange,Stock Exchange Sector,2
+sectorextraction of crude petroleum and natural gas,extraction of crude petroleum and natural gas,Activity Sector,14
+groupFTSE 100 Index,FTSE 100 Index,Group,2
+groupAEX index,AEX index,Group,2
+groupSeven Sisters,Seven Sisters,Group,12
+cBP PLC,BP PLC,Company,2
+countryUnited Kingdom,United Kingdom,Country,2
+hLondon,London,Headquarter,2
+d+222894000000 (+2015-00-00T00:00:00Z),+222894000000 (+2015-00-00T00:00:00Z),Revenue,2
+cChevron Corp,Chevron Corp,Company,12
+hSan Ramon,San Ramon,Headquarter,12
+d+166339000000 (+2018-00-00T00:00:00Z),+166339000000 (+2018-00-00T00:00:00Z),Revenue,12
+cAbu Dhabi National Oil Co,Abu Dhabi National Oil Co,Company,14
+countryUnited Arab Emirates,United Arab Emirates,Country,14
+hAbu Dhabi,Abu Dhabi,Headquarter,14
+cPeabody Energy Corp,Peabody Energy Corp,Company,1
+hSt. Louis,St. Louis,Headquarter,1
+cSonatrach SPA,Sonatrach SPA,Company,14
+countryAlgeria,Algeria,Country,14
+hAlgiers,Algiers,Headquarter,14
+cKuwait Petroleum Corp,Kuwait Petroleum Corp,Company,9
+countryKuwait,Kuwait,Country,9
+hKuwait City,Kuwait City,Headquarter,9
+cTotal SA,Total SA,Company,6
+countryFrance,France,Country,6
+hCourbevoie,Courbevoie,Headquarter,6
+d+100481000000,+100481000000,Revenue,6
+sectorenergy industry,energy industry,Activity Sector,6
+sectoractivities of head offices,activities of head offices,Activity Sector,6
+groupCAC 40,CAC 40,Group,6
+groupEURO STOXX 50,EURO STOXX 50,Group,6
+groupStoxx Europe 50,Stoxx Europe 50,Group,6
+cBHP Billiton Ltd,BHP Billiton Ltd,Company,4
+countryAustralia,Australia,Country,4
+hMelbourne,Melbourne,Headquarter,4
+d+43638000000 (+2018-00-00T00:00:00Z),+43638000000 (+2018-00-00T00:00:00Z),Revenue,4
+piron ore,iron ore,Product,4
+sectormining and quarrying,mining and quarrying,Activity Sector,4
+sectormetal industry,metal industry,Activity Sector,4
+sectormining,mining,Activity Sector,2
+cConocoPhillips,ConocoPhillips,Company,12
+hHouston,Houston,Headquarter,12
+d+198700000000 (+2010-00-00T00:00:00Z),+198700000000 (+2010-00-00T00:00:00Z),Revenue,12
+cLukoil OAO,Lukoil OAO,Company,5
+countryRussia,Russia,Country,5
+hMoscow,Moscow,Headquarter,5
+d+5227045000000 (+2016-00-00T00:00:00Z),+5227045000000 (+2016-00-00T00:00:00Z),Revenue,5
+sMoscow Exchange,Moscow Exchange,Stock Exchange Sector,5
+sectorextraction of petroleum,extraction of petroleum,Activity Sector,5
+cRio Tinto,Rio Tinto,Company,4
+paluminium,aluminium,Product,4
+sAustralian Securities Exchange,Australian Securities Exchange,Stock Exchange Sector,4
+cNigerian National Petroleum Corp,Nigerian National Petroleum Corp,Company,14
+countryNigeria,Nigeria,Country,14
+hAbuja,Abuja,Headquarter,14
+cRosneft OAO,Rosneft OAO,Company,11
+hRosneft headquarter,Rosneft headquarter,Headquarter,11
+d+6014000000000 (+2017-00-00T00:00:00Z),+6014000000000 (+2017-00-00T00:00:00Z),Revenue,11
+sectorpetroleum-gas industry,petroleum-gas industry,Activity Sector,11
+cIraq National Oil Co,Iraq National Oil Co,Company,9
+countryIraq,Iraq,Country,9
+hBaghdad,Baghdad,Headquarter,9
+cEni SPA,Eni SPA,Company,6
+countryItaly,Italy,Country,6
+hRome,Rome,Headquarter,6
+d+76575000000 (+2021-00-00T00:00:00Z),+76575000000 (+2021-00-00T00:00:00Z),Revenue,6
+groupFTSE MIB,FTSE MIB,Group,6
+cAnglo American,Anglo American,Company,2
+pgold,gold,Product,2
+cSurgutneftegas OAO,Surgutneftegas OAO,Company,5
+hSurgut,Surgut,Headquarter,5
+d+1222181000000 (+2016-00-00T00:00:00Z),+1222181000000 (+2016-00-00T00:00:00Z),Revenue,5
+cQatar Petroleum Corp,Qatar Petroleum Corp,Company,9
+countryQatar,Qatar,Country,9
+hDoha,Doha,Headquarter,9
+pLiquefied Natural Gas,Liquefied Natural Gas,Product,9
+cPT Pertamina,PT Pertamina,Company,11
+countryIndonesia,Indonesia,Country,11
+hJakarta,Jakarta,Headquarter,11
+pcombustible matter,combustible matter,Product,11
+groupMinistry of State Owned Enterprises,Ministry of State Owned Enterprises,Group,11
+groupMinistry of Energy and Mineral Resources,Ministry of Energy and Mineral Resources,Group,11
+cStatoil ASA,Statoil ASA,Company,9
+countryNorway,Norway,Country,9
+hStavanger,Stavanger,Headquarter,9
+sOslo Stock Exchange,Oslo Stock Exchange,Stock Exchange Sector,9
+cNational Oil Corporation of Libya,National Oil Corporation of Libya,Company,10
+countryLibya,Libya,Country,10
+hTripoli,Tripoli,Headquarter,10
+sectornatural resource,natural resource,Activity Sector,10
+cConsol Energy Inc,Consol Energy Inc,Company,1
+hPittsburgh,Pittsburgh,Headquarter,1
+cRWE AG,RWE AG,Company,7
+countryGermany,Germany,Country,7
+hEssen,Essen,Headquarter,7
+d+24526000000 (+2021-00-00T00:00:00Z),+24526000000 (+2021-00-00T00:00:00Z),Revenue,7
+pelectricity,electricity,Product,7
+sectorenergy supply,energy supply,Activity Sector,7
+"sectorelectric power generation, transmission and distribution","electric power generation, transmission and distribution",Activity Sector,7
+groupDAX,DAX,Group,7
+grouplist of German companies by employees in 1938,list of German companies by employees in 1938,Group,7
+groupDivDAX,DivDAX,Group,7
+groupCDAX,CDAX,Group,7
+cOil & Natural Gas Corp Ltd,Oil & Natural Gas Corp Ltd,Company,8
+cGlencore PLC,Glencore PLC,Company,2
+countrySwitzerland,Switzerland,Country,2
+hBaar,Baar,Headquarter,2
+d+170497000000 (+2015-00-00T00:00:00Z),+170497000000 (+2015-00-00T00:00:00Z),Revenue,2
+sectorsecurity and commodity contracts brokerage,security and commodity contracts brokerage,Activity Sector,2
+cTurkmenGaz,TurkmenGaz,Company,9
+countryTurkmenistan,Turkmenistan,Country,9
+hAshgabat,Ashgabat,Headquarter,9
+pnatural gas,natural gas,Product,9
+cSasol Ltd,Sasol Ltd,Company,9
+countrySouth Africa,South Africa,Country,9
+hJohannesburg,Johannesburg,Headquarter,9
+cAnadarko Petroleum Corp,Anadarko Petroleum Corp,Company,12
+hThe Woodlands,The Woodlands,Headquarter,12
+cEgyptian General Petroleum Corp,Egyptian General Petroleum Corp,Company,10
+countryEgypt,Egypt,Country,10
+hCairo,Cairo,Headquarter,10
+cPetroleum Development Oman LLC,Petroleum Development Oman LLC,Company,14
+countryOman,Oman,Country,14
+hMuscat,Muscat,Headquarter,14
+cSingareni Collieries Company,Singareni Collieries Company,Company,2
+hKothagudem,Kothagudem,Headquarter,2
+sectormining of hard coal,mining of hard coal,Activity Sector,2
+cOccidental Petroleum Corp,Occidental Petroleum Corp,Company,12
+d+18784000000 (+2007-00-00T00:00:00Z),+18784000000 (+2007-00-00T00:00:00Z),Revenue,12
+cBumi Resources,Bumi Resources,Company,11
+sIndonesia Stock Exchange,Indonesia Stock Exchange,Stock Exchange Sector,11
+sectorcoal industry,coal industry,Activity Sector,11
+cSuncor Energy Inc,Suncor Energy Inc,Company,13
+countryCanada,Canada,Country,13
+hCalgary,Calgary,Headquarter,13
+sToronto Stock Exchange,Toronto Stock Exchange,Stock Exchange Sector,13
+cPetoro AS,Petoro AS,Company,9
+cNatural Resource Partners LP,Natural Resource Partners LP,Company,12
+cMarathon Oil Corp,Marathon Oil Corp,Company,12
+d+64751000000 (+2007-00-00T00:00:00Z),+64751000000 (+2007-00-00T00:00:00Z),Revenue,12
+sectorgas industry,gas industry,Activity Sector,12
+cVistra Energy,Vistra Energy,Company,12
+cEncana Corp,Encana Corp,Company,13
+d+4443000000 (+2017-00-00T00:00:00Z),+4443000000 (+2017-00-00T00:00:00Z),Revenue,13
+cHess Corp,Hess Corp,Company,12
+hNew York City,New York City,Headquarter,12
+d+32004000000 (+2007-00-00T00:00:00Z),+32004000000 (+2007-00-00T00:00:00Z),Revenue,12
+sectorlist of oil exploration and production companies,list of oil exploration and production companies,Activity Sector,12
+cApache Corp,Apache Corp,Company,12
+d+5354000000 (+2016-00-00T00:00:00Z),+5354000000 (+2016-00-00T00:00:00Z),Revenue,12
+cSyrian Petroleum Co,Syrian Petroleum Co,Company,14
+countrySyria,Syria,Country,14
+hDamascus,Damascus,Headquarter,14
+cKazMunayGas,KazMunayGas,Company,14
+countryKazakhstan,Kazakhstan,Country,14
+hAstana,Astana,Headquarter,14
+sKazakhstan Stock Exchange,Kazakhstan Stock Exchange,Stock Exchange Sector,14
+cInpex Corp,Inpex Corp,Company,9
+countryJapan,Japan,Country,9
+hTokyo,Tokyo,Headquarter,9
+sTokyo Stock Exchange,Tokyo Stock Exchange,Stock Exchange Sector,9
+cHusky Energy Inc,Husky Energy Inc,Company,13
+cDrummond Co,Drummond Co,Company,4
+cTurkmennebit,Turkmennebit,Company,9
+cOMV AG,OMV AG,Company,3
+countryAustria,Austria,Country,3
+hVienna,Vienna,Headquarter,3
+d+19260000000 (+2016-01-01T00:00:00Z),+19260000000 (+2016-01-01T00:00:00Z),Revenue,3
+sWiener Boerse AG,Wiener Boerse AG,Stock Exchange Sector,3
+cMurphy Oil Corp,Murphy Oil Corp,Company,14
+hEl Dorado,El Dorado,Headquarter,14
+cSouthwestern Energy Co,Southwestern Energy Co,Company,15

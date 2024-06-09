@@ -1,0 +1,296 @@
+Source,Target,Label
+cNational Iranian Oil Co,countryIran,country
+cNational Iranian Oil Co,hTehran,headquarter
+cNational Iranian Oil Co,d+51000000000 (+2007-00-00T00:00:00Z),revenue
+cNational Iranian Oil Co,ppetrochemical product,product
+cNational Iranian Oil Co,sTehran Stock Exchange,stock exchange sector
+cNational Iranian Oil Co,sectorpetroleum industry,activity sector
+cExxonMobil Corp,countryUnited States of America,country
+cExxonMobil Corp,hIrving,headquarter
+cExxonMobil Corp,d+268882000000 (+2015-00-00T00:00:00Z),revenue
+cExxonMobil Corp,pgasoline,product
+cExxonMobil Corp,sNew York Stock Exchange,stock exchange sector
+cExxonMobil Corp,sectorpetroleum industry,activity sector
+cExxonMobil Corp,groupDow Jones Industrial Average,group
+cExxonMobil Corp,groupS&P 100,group
+cExxonMobil Corp,groupS&P 500,group
+cExxonMobil Corp,groupBig Oil,group
+cExxonMobil Corp,groupfossil fuels lobby,group
+cCoal India,countryIndia,country
+cCoal India,hKolkata,headquarter
+cCoal India,pcoal,product
+cCoal India,sNational Stock Exchange of India,stock exchange sector
+cCoal India,sectormining of coal,activity sector
+cRoyal Dutch Shell PLC,countryNetherlands,country
+cRoyal Dutch Shell PLC,hShell Centre,headquarter
+cRoyal Dutch Shell PLC,d+264960000000 (+2015-00-00T00:00:00Z),revenue
+cRoyal Dutch Shell PLC,ppetroleum,product
+cRoyal Dutch Shell PLC,sLondon Stock Exchange,stock exchange sector
+cRoyal Dutch Shell PLC,sectorpetroleum industry,activity sector
+cRoyal Dutch Shell PLC,sectorextraction of crude petroleum and natural gas,activity sector
+cRoyal Dutch Shell PLC,groupFTSE 100 Index,group
+cRoyal Dutch Shell PLC,groupAEX index,group
+cRoyal Dutch Shell PLC,groupSeven Sisters,group
+cBP PLC,countryUnited Kingdom,country
+cBP PLC,hLondon,headquarter
+cBP PLC,d+222894000000 (+2015-00-00T00:00:00Z),revenue
+cBP PLC,ppetroleum,product
+cBP PLC,sNew York Stock Exchange,stock exchange sector
+cBP PLC,sectorpetroleum industry,activity sector
+cBP PLC,groupFTSE 100 Index,group
+cBP PLC,groupSeven Sisters,group
+cChevron Corp,countryUnited States of America,country
+cChevron Corp,hSan Ramon,headquarter
+cChevron Corp,d+166339000000 (+2018-00-00T00:00:00Z),revenue
+cChevron Corp,ppetroleum,product
+cChevron Corp,sNew York Stock Exchange,stock exchange sector
+cChevron Corp,sectorpetroleum industry,activity sector
+cChevron Corp,groupDow Jones Industrial Average,group
+cChevron Corp,groupS&P 500,group
+cChevron Corp,groupSeven Sisters,group
+cAbu Dhabi National Oil Co,countryUnited Arab Emirates,country
+cAbu Dhabi National Oil Co,hAbu Dhabi,headquarter
+cAbu Dhabi National Oil Co,ppetroleum,product
+cAbu Dhabi National Oil Co,sectorpetroleum industry,activity sector
+cPeabody Energy Corp,countryUnited States of America,country
+cPeabody Energy Corp,hSt. Louis,headquarter
+cPeabody Energy Corp,sNew York Stock Exchange,stock exchange sector
+cPeabody Energy Corp,sectormining of coal,activity sector
+cSonatrach SPA,countryAlgeria,country
+cSonatrach SPA,hAlgiers,headquarter
+cSonatrach SPA,ppetroleum,product
+cSonatrach SPA,sectorpetroleum industry,activity sector
+cSonatrach SPA,sectorextraction of crude petroleum and natural gas,activity sector
+cKuwait Petroleum Corp,countryKuwait,country
+cKuwait Petroleum Corp,hKuwait City,headquarter
+cKuwait Petroleum Corp,sectorpetroleum industry,activity sector
+cTotal SA,countryFrance,country
+cTotal SA,hCourbevoie,headquarter
+cTotal SA,d+100481000000,revenue
+cTotal SA,ppetroleum,product
+cTotal SA,sNew York Stock Exchange,stock exchange sector
+cTotal SA,sectorpetroleum industry,activity sector
+cTotal SA,sectorenergy industry,activity sector
+cTotal SA,sectorextraction of crude petroleum and natural gas,activity sector
+cTotal SA,sectoractivities of head offices,activity sector
+cTotal SA,groupCAC 40,group
+cTotal SA,groupEURO STOXX 50,group
+cTotal SA,groupStoxx Europe 50,group
+cBHP Billiton Ltd,countryAustralia,country
+cBHP Billiton Ltd,hMelbourne,headquarter
+cBHP Billiton Ltd,d+43638000000 (+2018-00-00T00:00:00Z),revenue
+cBHP Billiton Ltd,piron ore,product
+cBHP Billiton Ltd,sNew York Stock Exchange,stock exchange sector
+cBHP Billiton Ltd,sectormining and quarrying,activity sector
+cBHP Billiton Ltd,sectormetal industry,activity sector
+cBHP Billiton Ltd,sectormining,activity sector
+cBHP Billiton Ltd,groupFTSE 100 Index,group
+cConocoPhillips,countryUnited States of America,country
+cConocoPhillips,hHouston,headquarter
+cConocoPhillips,d+198700000000 (+2010-00-00T00:00:00Z),revenue
+cConocoPhillips,ppetroleum,product
+cConocoPhillips,sNew York Stock Exchange,stock exchange sector
+cConocoPhillips,sectorpetroleum industry,activity sector
+cConocoPhillips,groupS&P 500,group
+cLukoil OAO,countryRussia,country
+cLukoil OAO,hMoscow,headquarter
+cLukoil OAO,d+5227045000000 (+2016-00-00T00:00:00Z),revenue
+cLukoil OAO,ppetroleum,product
+cLukoil OAO,sMoscow Exchange,stock exchange sector
+cLukoil OAO,sectorextraction of petroleum,activity sector
+cLukoil OAO,sectorpetroleum industry,activity sector
+cRio Tinto,countryUnited Kingdom,country
+cRio Tinto,hMelbourne,headquarter
+cRio Tinto,paluminium,product
+cRio Tinto,sAustralian Securities Exchange,stock exchange sector
+cRio Tinto,sectormetal industry,activity sector
+cRio Tinto,sectormining and quarrying,activity sector
+cNigerian National Petroleum Corp,countryNigeria,country
+cNigerian National Petroleum Corp,hAbuja,headquarter
+cNigerian National Petroleum Corp,ppetroleum,product
+cNigerian National Petroleum Corp,sectorpetroleum industry,activity sector
+cRosneft OAO,countryRussia,country
+cRosneft OAO,hRosneft headquarter,headquarter
+cRosneft OAO,d+6014000000000 (+2017-00-00T00:00:00Z),revenue
+cRosneft OAO,ppetroleum,product
+cRosneft OAO,sLondon Stock Exchange,stock exchange sector
+cRosneft OAO,sectorpetroleum industry,activity sector
+cRosneft OAO,sectorpetroleum-gas industry,activity sector
+cIraq National Oil Co,countryIraq,country
+cIraq National Oil Co,hBaghdad,headquarter
+cIraq National Oil Co,ppetroleum,product
+cIraq National Oil Co,sectorpetroleum industry,activity sector
+cEni SPA,countryItaly,country
+cEni SPA,hRome,headquarter
+cEni SPA,d+76575000000 (+2021-00-00T00:00:00Z),revenue
+cEni SPA,ppetroleum,product
+cEni SPA,sNew York Stock Exchange,stock exchange sector
+cEni SPA,sectorpetroleum industry,activity sector
+cEni SPA,sectorenergy industry,activity sector
+cEni SPA,groupFTSE MIB,group
+cEni SPA,groupEURO STOXX 50,group
+cAnglo American,countryUnited Kingdom,country
+cAnglo American,hLondon,headquarter
+cAnglo American,pgold,product
+cAnglo American,sLondon Stock Exchange,stock exchange sector
+cAnglo American,sectormining,activity sector
+cSurgutneftegas OAO,countryRussia,country
+cSurgutneftegas OAO,hSurgut,headquarter
+cSurgutneftegas OAO,d+1222181000000 (+2016-00-00T00:00:00Z),revenue
+cSurgutneftegas OAO,ppetroleum,product
+cSurgutneftegas OAO,sMoscow Exchange,stock exchange sector
+cSurgutneftegas OAO,sectorextraction of petroleum,activity sector
+cSurgutneftegas OAO,sectorpetroleum industry,activity sector
+cQatar Petroleum Corp,countryQatar,country
+cQatar Petroleum Corp,hDoha,headquarter
+cQatar Petroleum Corp,pLiquefied Natural Gas,product
+cQatar Petroleum Corp,sectorpetroleum industry,activity sector
+cPT Pertamina,countryIndonesia,country
+cPT Pertamina,hJakarta,headquarter
+cPT Pertamina,pcombustible matter,product
+cPT Pertamina,sectorpetroleum-gas industry,activity sector
+cPT Pertamina,groupMinistry of State Owned Enterprises,group
+cPT Pertamina,groupMinistry of Energy and Mineral Resources,group
+cStatoil ASA,countryNorway,country
+cStatoil ASA,hStavanger,headquarter
+cStatoil ASA,ppetroleum,product
+cStatoil ASA,sOslo Stock Exchange,stock exchange sector
+cStatoil ASA,sectorpetroleum industry,activity sector
+cNational Oil Corporation of Libya,countryLibya,country
+cNational Oil Corporation of Libya,hTripoli,headquarter
+cNational Oil Corporation of Libya,sectorpetroleum industry,activity sector
+cNational Oil Corporation of Libya,sectornatural resource,activity sector
+cConsol Energy Inc,countryUnited States of America,country
+cConsol Energy Inc,hPittsburgh,headquarter
+cConsol Energy Inc,pcoal,product
+cConsol Energy Inc,sNew York Stock Exchange,stock exchange sector
+cConsol Energy Inc,sectormining of coal,activity sector
+cRWE AG,countryGermany,country
+cRWE AG,hEssen,headquarter
+cRWE AG,d+24526000000 (+2021-00-00T00:00:00Z),revenue
+cRWE AG,pelectricity,product
+cRWE AG,sectorenergy supply,activity sector
+cRWE AG,sectorenergy industry,activity sector
+cRWE AG,"sectorelectric power generation, transmission and distribution",activity sector
+cRWE AG,groupDAX,group
+cRWE AG,grouplist of German companies by employees in 1938,group
+cRWE AG,groupDivDAX,group
+cRWE AG,groupCDAX,group
+cGlencore PLC,countrySwitzerland,country
+cGlencore PLC,hBaar,headquarter
+cGlencore PLC,d+170497000000 (+2015-00-00T00:00:00Z),revenue
+cGlencore PLC,sLondon Stock Exchange,stock exchange sector
+cGlencore PLC,sectormining,activity sector
+cGlencore PLC,sectorsecurity and commodity contracts brokerage,activity sector
+cGlencore PLC,groupFTSE 100 Index,group
+cTurkmenGaz,countryTurkmenistan,country
+cTurkmenGaz,hAshgabat,headquarter
+cTurkmenGaz,pnatural gas,product
+cTurkmenGaz,sectorpetroleum industry,activity sector
+cSasol Ltd,countrySouth Africa,country
+cSasol Ltd,hJohannesburg,headquarter
+cSasol Ltd,sNew York Stock Exchange,stock exchange sector
+cSasol Ltd,sectorpetroleum industry,activity sector
+cAnadarko Petroleum Corp,hThe Woodlands,headquarter
+cAnadarko Petroleum Corp,ppetroleum,product
+cAnadarko Petroleum Corp,sNew York Stock Exchange,stock exchange sector
+cAnadarko Petroleum Corp,sectorpetroleum industry,activity sector
+cEgyptian General Petroleum Corp,countryEgypt,country
+cEgyptian General Petroleum Corp,hCairo,headquarter
+cEgyptian General Petroleum Corp,ppetroleum,product
+cEgyptian General Petroleum Corp,sectorpetroleum industry,activity sector
+cEgyptian General Petroleum Corp,sectornatural resource,activity sector
+cPetroleum Development Oman LLC,countryOman,country
+cPetroleum Development Oman LLC,hMuscat,headquarter
+cPetroleum Development Oman LLC,ppetroleum,product
+cPetroleum Development Oman LLC,sectorpetroleum industry,activity sector
+cSingareni Collieries Company,countryIndia,country
+cSingareni Collieries Company,hKothagudem,headquarter
+cSingareni Collieries Company,pmining of coal,product
+cSingareni Collieries Company,sectormining of hard coal,activity sector
+cSingareni Collieries Company,sectormining,activity sector
+cOccidental Petroleum Corp,countryUnited States of America,country
+cOccidental Petroleum Corp,hHouston,headquarter
+cOccidental Petroleum Corp,d+18784000000 (+2007-00-00T00:00:00Z),revenue
+cOccidental Petroleum Corp,ppetroleum,product
+cOccidental Petroleum Corp,sNew York Stock Exchange,stock exchange sector
+cOccidental Petroleum Corp,sectorpetroleum industry,activity sector
+cOccidental Petroleum Corp,groupS&P 500,group
+cBumi Resources,countryIndonesia,country
+cBumi Resources,hJakarta,headquarter
+cBumi Resources,pcoal,product
+cBumi Resources,sIndonesia Stock Exchange,stock exchange sector
+cBumi Resources,sectorpetroleum industry,activity sector
+cBumi Resources,sectorcoal industry,activity sector
+cBumi Resources,sectormining,activity sector
+cSuncor Energy Inc,countryCanada,country
+cSuncor Energy Inc,hCalgary,headquarter
+cSuncor Energy Inc,ppetroleum,product
+cSuncor Energy Inc,sToronto Stock Exchange,stock exchange sector
+cSuncor Energy Inc,sectorpetroleum industry,activity sector
+cPetoro AS,countryNorway,country
+cPetoro AS,hStavanger,headquarter
+cPetoro AS,sectorpetroleum industry,activity sector
+cNatural Resource Partners LP,countryUnited States of America,country
+cNatural Resource Partners LP,sectorcoal industry,activity sector
+cMarathon Oil Corp,countryUnited States of America,country
+cMarathon Oil Corp,hHouston,headquarter
+cMarathon Oil Corp,d+64751000000 (+2007-00-00T00:00:00Z),revenue
+cMarathon Oil Corp,ppetroleum,product
+cMarathon Oil Corp,sNew York Stock Exchange,stock exchange sector
+cMarathon Oil Corp,sectorpetroleum industry,activity sector
+cMarathon Oil Corp,sectorgas industry,activity sector
+cMarathon Oil Corp,groupS&P 500,group
+cVistra Energy,countryUnited States of America,country
+cVistra Energy,hIrving,headquarter
+cVistra Energy,sNew York Stock Exchange,stock exchange sector
+cEncana Corp,countryCanada,country
+cEncana Corp,hCalgary,headquarter
+cEncana Corp,d+4443000000 (+2017-00-00T00:00:00Z),revenue
+cEncana Corp,ppetroleum,product
+cEncana Corp,sNew York Stock Exchange,stock exchange sector
+cEncana Corp,sectorpetroleum industry,activity sector
+cHess Corp,countryUnited States of America,country
+cHess Corp,hNew York City,headquarter
+cHess Corp,d+32004000000 (+2007-00-00T00:00:00Z),revenue
+cHess Corp,sNew York Stock Exchange,stock exchange sector
+cHess Corp,sectorlist of oil exploration and production companies,activity sector
+cHess Corp,groupS&P 500,group
+cApache Corp,hHouston,headquarter
+cApache Corp,d+5354000000 (+2016-00-00T00:00:00Z),revenue
+cApache Corp,ppetroleum,product
+cApache Corp,sNew York Stock Exchange,stock exchange sector
+cApache Corp,sectorpetroleum industry,activity sector
+cApache Corp,sectorgas industry,activity sector
+cApache Corp,groupS&P 500,group
+cSyrian Petroleum Co,countrySyria,country
+cSyrian Petroleum Co,hDamascus,headquarter
+cSyrian Petroleum Co,ppetroleum,product
+cSyrian Petroleum Co,sectorpetroleum industry,activity sector
+cKazMunayGas,countryKazakhstan,country
+cKazMunayGas,hAstana,headquarter
+cKazMunayGas,ppetroleum,product
+cKazMunayGas,sKazakhstan Stock Exchange,stock exchange sector
+cKazMunayGas,sectorpetroleum industry,activity sector
+cInpex Corp,countryJapan,country
+cInpex Corp,hTokyo,headquarter
+cInpex Corp,sTokyo Stock Exchange,stock exchange sector
+cInpex Corp,sectorpetroleum industry,activity sector
+cHusky Energy Inc,countryCanada,country
+cDrummond Co,countryAustralia,country
+cTurkmennebit,countryTurkmenistan,country
+cTurkmennebit,hAshgabat,headquarter
+cTurkmennebit,ppetroleum,product
+cTurkmennebit,sectorpetroleum industry,activity sector
+cOMV AG,countryAustria,country
+cOMV AG,hVienna,headquarter
+cOMV AG,d+19260000000 (+2016-01-01T00:00:00Z),revenue
+cOMV AG,ppetroleum,product
+cOMV AG,sWiener Boerse AG,stock exchange sector
+cOMV AG,sectorpetroleum industry,activity sector
+cMurphy Oil Corp,countryUnited States of America,country
+cMurphy Oil Corp,hEl Dorado,headquarter
+cMurphy Oil Corp,ppetroleum,product
+cMurphy Oil Corp,sNew York Stock Exchange,stock exchange sector
+cMurphy Oil Corp,sectorpetroleum industry,activity sector
+cMurphy Oil Corp,sectorextraction of crude petroleum and natural gas,activity sector
